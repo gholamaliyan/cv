@@ -1,0 +1,41 @@
+.newpost{
+	float: right;
+	background-color:#fff;
+	width: 100%;
+	height: 500px
+}
+input[type=text]{
+	width:50%;
+	height: 40px;
+	font-family: b koodak;
+	font-size: 17px;
+	float: right;
+	margin:0px 10px 0 0;
+}
+label{
+float: right;
+font-family: b koodak;
+padding:5px 5px 0 0;
+}
+textarea{
+	float: right;
+	margin: 0px 10px 0 0;
+	width: 40%;
+	height: 200px;
+	text-align: right;
+	font-family: b koodak;
+	font-size: 17px;
+	padding: 0px 10px 0 0 ;
+}
+input[type=submit]{
+	width: 20%;
+	height: 30px;
+	border-radius: 6px;
+	cursor: pointer;
+	float: right;
+	margin: 15% 0 0 0
+}
+.newpostsql{
+	font-family: b koodak;
+	font-size: 20px
+}

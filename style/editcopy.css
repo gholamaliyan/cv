@@ -1,0 +1,45 @@
+.copy{
+	width: 60%;
+	height: 30px;
+	font-family: b koodak;
+	float: right;
+	margin: 10px;
+	text-align: right;
+	padding: 5px;
+	font-size: 17px
+}
+.subcopy{
+	width: 100px;
+	height: 50px;
+	overflow: hidden;
+	font-family: b koodak;
+	float: right;
+	margin: 10px;
+	text-align: center;
+	padding: 5px;
+	font-size: 17px
+}
+.title{
+	width: 60%;
+	height: 30px;
+	font-family: b koodak;
+	float: right;
+	margin: 10px;
+	text-align: right;
+	padding: 5px;
+	font-size: 17px
+}
+
+p{
+	font-family: b koodak;
+	font-size: 17px;
+	text-align: right;
+	float: right;
+	display: inline-block;
+}
+img{
+	width: 350px;
+	height: 250px;
+	margin: 15px 0 0 38%;
+	border:3px solid #000;
+}

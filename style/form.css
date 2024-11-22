@@ -1,0 +1,66 @@
+/* FORMY CLASSES ------------------------------------------------------------*/
+
+#formy{
+	margin-bottom: 18px;
+}
+
+#formy input,
+#formy textarea{
+	padding: 10px 15px;
+	background:#282d34;
+	color: #ffffff;
+	font-family: b koodak, b titr;
+	font-size: 20px;
+	border-left: none;
+	border-right: none;
+	border-top: 1px  solid #22252b;
+	border-bottom: 1px  solid #353b43;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	
+	overflow: auto;
+}
+
+#formy textarea{
+	width: 450px;
+	height: 230px;
+	text-align: right;
+	margin-bottom: 10px
+}
+.subject{
+	text-align: right;
+	width: 400px;
+	margin-bottom: 10px
+}
+.name{
+	text-align: right;
+	width: 250px;
+	margin-bottom: 10px
+}
+.cellphone{
+	text-align: left;
+	width: 200px;
+	margin-bottom: 10px
+}
+.email{
+	text-align: left;
+	width: 300px;
+	margin-bottom: 10px
+}
+
+#formy #submit{
+	width: 120px;
+	margin: 15px 10px;
+	padding: 5px 0px;
+	background: #282d34           repeat-x;
+	float: right;
+	color: #fff;
+}
+
+#formy input#submit:hover{
+	opacity: 0.8;
+}
+
+#formy #submit{ float: left; }
+

@@ -1,0 +1,51 @@
+body{
+	padding: 0;
+	margin: 0
+}
+.sendpost{
+	width: 98%;
+	height: auto;
+	float: right;
+	background-color: #dfe6e9;
+	margin: 0 1%
+}
+.sendpost input[type=file]{
+	float: right;
+	width:13%;
+	height: 60px;
+    cursor: pointer;
+	font-family: b koodak;
+	text-align: right;
+}
+.sendpost input[type=submit]{
+	float: right;
+	width:30% ;
+	height: 50px;
+	margin: 10px 35%;
+	font-family: b koodak;
+	font-size: 20px;
+}
+.sendpost label{
+	float: right;
+	font-size: 15px;
+	font-family: b koodak;
+	padding: 0 10px
+}
+.sendpost-title{
+	float: right;
+	width: 100%;
+	margin:10px 0px;
+	height:50px ;
+}
+.sendpost-title p{
+	font-size: 15px;
+	width: auto;
+	height: 30px;
+	float: right;
+	background-color: #515151;
+	font-family: b koodak;
+	text-align:right; ;
+	color: #fff;
+	margin: 0px 0px;
+	padding:10px 5px;
+}

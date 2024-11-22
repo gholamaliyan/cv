@@ -1,0 +1,340 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #F0F0F0
+}
+a{
+    text-decoration: none;
+    float: right;
+    overflow: hidden;
+}
+.menu-top{
+    width: 100%;
+    height: 60px;
+    background-color: #2c3e50;
+    float: right;
+}
+.menu-top li{
+    display: inline;
+    float: right;
+margin: 15px;
+    transition: all 0.3s ease-in-out
+}
+.menu-top a{
+    color: white;
+    font-family: b koodak;
+}
+.menu-top li:hover{
+    border-bottom: 1.2px solid #fff;
+    color:#000;  
+}
+.marquee{
+    width: 100%;
+    height: 50px;
+    float: right;
+    margin: 10px 0px;
+}
+.marquee li{
+    float: right;
+    text-align: right;
+    display: inline;
+    color: #fff;
+    height: 46%;
+    width: 11%;
+    background-color: #2c3e50;
+    padding: 12px 12px 15px 0px;
+    font-family: b koodak;
+    
+}
+.text{
+    width: 87.75%;
+    float: left;
+    height: 100%;
+    padding: -20px 0px 15px 10px;
+    font-family: b koodak;
+    background-color: #34495e;
+    color: #FFF;
+}
+.text p{
+    margin: 12px;
+    color: white;
+    transition: all 0.3s ease-in-out
+}
+.text p:hover{
+    padding-right:10px;
+    color: #d35400
+}
+
+.content{
+    float: left;
+    background-color: #95a5a6;
+    width: 68%;
+    height: 250px;
+    margin:30px 0px 0px 45px ;
+}
+.content-title{
+    width: 60%;
+    height: 50px;
+    background-color: #2c3e50;
+}
+.content-title a{ 
+    font-family: b koodak;
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    padding: 10px 5px;
+    margin-top: 0px;
+    transition: all 0.3s ease-in-out; 
+}
+.content-title a:hover{
+    padding-right:15px;
+    color: #d35400
+}
+.content img{
+    width: 40%;
+    float: right;
+    height: 100%;
+    margin: -50px 0px
+}
+.readmore{
+    width: auto;
+    height: 100%;
+    background-color: #2c3e50;
+    float: left;  
+}
+.readmore-main{
+    width: 60%;
+    height: 40px;
+    margin: 0px 0px 0px 0px;
+}
+.readmore a{
+    font-family: b koodak;
+    padding: 6px 13px;
+    color: #fff;
+    transition: all 0.3s ease-in-out
+}
+.readmore a:hover{
+    background-color: white;
+    color: #2c3e50
+}
+.sidebar{
+    width: 21%;
+    height: auto;
+    float: right;
+    margin:2% 50px 0px 0px;
+}
+.sidebar-sal{
+    float: right;
+    background-color: #fff;
+    width: 100%;
+    height: 300px;
+}
+.sidebar-title{
+    width: auto;
+    height: 65px;
+    float: right;
+    background-color: #01bdbe
+}
+.sidebar-title-main{
+    width: 100%;
+    height: auto;
+    float: right;
+}
+.sidebar-monasebat{
+    float: right;
+    margin: 20px 0px;
+    background-color: #fff;
+    width: 100%;
+    height: 300px;
+}
+.sidebar-title p{
+    font-family: b koodak;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    padding: 0px 12px;
+}
+.sidebar-bazdid{
+    float: right;
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+}
+.sidebar-bazdid h1{
+    font-family: b koodak;
+    font-size: 18px;
+    text-align: right;
+    margin:80px 30px 0px 0px ;
+}
+.copyright{
+    width: 100%;
+    height: 60px;
+    background-color: #16a085;
+    float: right;
+}
+.copyright p{
+    font-family: b koodak;
+    text-align: right;
+    font-size: 16px;
+    color: #fff
+}
+.copyright h1{
+    font-family: b koodak;
+    text-align: left;
+    font-size: 16px;
+    color: #fff;
+    margin: -44px 10px
+}
+.menu-botton{
+    width: 100%;
+    height: 60px;
+    background-color: #16a085;
+    float: right;
+    border-bottom: 1px solid #000;
+    margin: 20px 0px 0px 0px
+}
+.menu-botton li{
+    display: inline;
+    float: right;
+margin: 15px;
+    transition: all 0.3s ease-in-out
+}
+.menu-botton a{
+    color: white;
+    font-family: b koodak;
+}
+.menu-botton li:hover{
+    padding-right:  10px;
+    font-family: serif
+}
+.slider{
+    float: left;
+    background-color: #000;
+    width: 65.5%;
+    height: 525px;
+    margin:31px 0px 0px 45px;
+}
+.sidebar-sal img{
+    width: 96%;
+    float: right;
+    height: 220px;
+    margin: 7px 2%
+}
+.sidebar-monasebat img{
+    width: 96%;
+    float: right;
+    height: 220px;
+    margin: 7px 2%
+}
+.time{
+    float: right;
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+    margin-top:20px 
+}
+.textc{
+    width:60%;
+    height: 160px;
+    float: right;
+}
+.textc p{
+    color: black;
+    text-align: right;
+    font-family: b koodak;
+    font-size: 16px;
+    padding: 0px 5px
+}
+.time h2{
+    font-family: b koodak;
+    text-align: center;
+    margin: 80px 0px  0px 0px;
+    font-size: 19px
+}
+.time h2:hover{
+    color: #16a085
+}
+.time a{
+    color: black;
+    font-family: b koodak;
+    margin: 10px 10px
+}
+.time a:hover{
+    color: #d35400
+}
+.follow-us{
+    float: right;
+    width: 100%;
+    height: 50px;
+    background-color: #16a085;
+    border-top-right-radius:20px;
+    border-bottom-left-radius: 20px;
+    border-bottom: 1px solid #000
+}
+.follow-us p{
+font-family: b koodak;
+text-align: right;
+float: right;
+margin: 10px 50px 0px 0px;
+color: #fff
+}
+.icon{
+    width: auto;
+    height: 100%;
+    float: left;
+    margin: 0px 0px 0px 70px;
+}
+.icon img{
+    height: 100%;
+    margin: 0px 7px;
+    transition: all 0.3s ease-in-out;
+}
+.icon img:hover{
+    padding-left: 20px
+}
+.readmorepages{
+    width: 60%;
+    height:auto;
+    background-color: #95a5a6;
+    float: left;
+    border-radius: 10px;
+    margin: 30px 0px 0px 110px
+}
+.readmorepages-title{
+    width: 100%;
+    height: 60px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #2c3e50;
+    float: right;
+}
+.readmorepages img{
+    width: 65%;
+    height: 290px;
+    margin: 15px 0px 0px 150px;
+    border-radius: 10px;
+    border:2px solid #000;
+}
+.readmorepages-content{
+    width: 100%;
+    height: auto;
+    margin: 20px 0 0 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.readmorepages-content p{
+    font-family: b koodak;
+    text-align: right;
+    float: right;
+    overflow: hidden;
+    font-size: 18px;
+    padding: 5px 17px 7px 17px
+}
+.readmorepages-title p{
+    font-family: b koodak;
+    text-align: center;
+    color: white;
+    overflow: hidden;
+    font-size: 18px;
+}

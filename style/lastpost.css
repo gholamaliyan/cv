@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+p{
+	font-family: b koodak;
+	text-align: right;
+	padding:7px;
+}
+table{
+	border: 1px solid #000;
+	margin: 0 auto;
+}
